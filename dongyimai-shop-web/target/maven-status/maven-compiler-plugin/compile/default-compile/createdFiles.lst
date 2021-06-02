@@ -1,0 +1,7 @@
+com\sun\shop\service\UserDetailServiceImpl.class
+com\sun\shop\controller\TypeTemplateController.class
+com\sun\shop\controller\UploadController.class
+com\sun\shop\controller\LoginController.class
+com\sun\shop\controller\ItemCatController.class
+com\sun\shop\controller\GoodsController.class
+com\sun\shop\controller\SellerController.class
